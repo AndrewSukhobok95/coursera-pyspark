@@ -4,4 +4,4 @@ This repository contains notebooks and other files related to some guided projec
 
 This list of accomplished courses:
 - [Data Analysis Using Pyspark](https://www.coursera.org/projects/data-analysis-using-pyspark)
-- [Explore stock prices with Spark SQL](https://www.coursera.org/learn/data-exploration-spark-sql/)
+- [Explore Stock Prices With Spark SQL](https://www.coursera.org/learn/data-exploration-spark-sql/)
